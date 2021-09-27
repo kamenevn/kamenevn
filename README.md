@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-Hey, I am Nikolay! I'm a PHP/GoLang developer with development experience HighLoad projects! 
-Work with: GoLang, Laravel, Phalcon.
+Hey, I am Nikolay! I'm a PHP/GoLang developer with development experience HighLoad projects!
+
+
 I have 10+ years of PHP experience, work with APIs, JSON data, graphs, mobile apps and etc.
+Work with: GoLang, Laravel, Phalcon.
 
 
-
-📫 How to reach me: https://t.me/kamenevn
+- 📫 How to reach me: https://t.me/kamenevn
 
 <!--
 **kamenevn/kamenevn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
