@@ -4,7 +4,7 @@ Hey, I am Nikolay! I'm a PHP/GoLang developer with development experience HighLo
 
 
 I have 10+ years of PHP experience, work with APIs, JSON data, graphs, mobile apps and etc.
-Work with: GoLang, LUA, Laravel, Phalcon.
+Work with: PHP, GoLang, LUA, Laravel, Phalcon.
 
 
 - 📫 How to reach me: https://t.me/kamenevn
