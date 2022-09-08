@@ -14,9 +14,6 @@ Work with: PHP, GoLang, LUA, Laravel, Phalcon.
 - 📫 How to reach me: https://t.me/kamenevn
 
 <br />
-<br />
-<br />
-<br />
 
 **Languages and Tools:**
 
@@ -26,8 +23,6 @@ Work with: PHP, GoLang, LUA, Laravel, Phalcon.
 <code><img height="20" alt="kamenevn GO" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="background-color:transparent!important"></code>
 <code><img height="20" alt="kamenevn LUA" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" style="background-color:transparent!important"></code>
 <code><img height="20" alt="kamenevn PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  style="background-color:transparent!important"></code>
-<br />
-<br />
 <br />
 <br />
 
